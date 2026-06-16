@@ -21,38 +21,38 @@
 
 | 파일/폴더 | 형식 | 내용 |
 | --- | --- | --- |
-| `W1-1 Algorithm.pdf` | PDF | 알고리즘 강의 도입 자료입니다. 알고리즘의 기본 개념과 수업 전체의 출발점을 정리합니다. |
-| `W1-1 Algorithm.pptx` | PPTX | 1주차 알고리즘 개요 발표 자료입니다. |
-| `W2-1 pandas basic.pdf` | PDF | pandas 기초 문법과 데이터 처리 흐름을 설명하는 강의 자료입니다. |
-| `W2-1 pandas basic.pptx` | PPTX | pandas 기본 사용법 발표 자료입니다. |
-| `w2-2_download_zinc.ipynb` | Notebook | ZINC DB 다운로드 자동화 실습 노트북입니다. 파일 읽기, 리스트, 반복문을 활용합니다. |
-| `w2_2_download_zinc_colab.ipynb` | Notebook | Google Colab 환경에서 ZINC DB 다운로드 실습을 수행하는 노트북입니다. |
-| `ZINC-downloader-2D-txt.uri` | URI | ZINC 2D text 데이터 다운로드에 사용하는 URI 목록입니다. |
-| `w3-1 divide_and_conquer.pptx` | PPTX | 분할 정복 알고리즘 강의 자료입니다. |
-| `w3-1_divide_and_conquer.ipynb` | Notebook | 분할 정복 개념과 관련 퀴즈를 포함한 실습 노트북입니다. |
-| `w3-1_divide_and_conquer-student.ipynb` | Notebook | 학생 실습용 분할 정복 노트북입니다. 일부 코드를 직접 채우는 형태입니다. |
-| `w3-2 pseudo_code_BigO_notation_mpi4py.pdf` | PDF | pseudo code, Big-O notation, mpi4py 병렬 처리 개념을 설명하는 자료입니다. |
-| `w3-2 pseudo_code_BigO_notation_mpi4py.pptx` | PPTX | 3주차 pseudo code, Big-O, mpi4py 발표 자료입니다. |
-| `w3-2_python_script/` | Folder | mpi4py 실습용 Python 스크립트 폴더입니다. |
-| `w3-2_python_script/mpi4py_test.py` | Python | mpi4py 기본 동작과 병렬 실행을 확인하는 테스트 스크립트입니다. |
-| `w3-2_python_script/mpi4py_find_logp_min.py` | Python | pandas와 mpi4py를 사용해 분자 데이터에서 logP 최솟값을 찾는 병렬 처리 예제입니다. |
-| `w4-1_sorting.ipynb` | Notebook | 정렬 알고리즘 실습 노트북입니다. |
-| `w4-1_sorting-student.ipynb` | Notebook | 학생 실습용 정렬 알고리즘 노트북입니다. |
-| `w4-2_sorting_kisti.pdf` | PDF | KISTI 환경 또는 관련 실습을 포함한 정렬 알고리즘 자료입니다. |
-| `w4-2_sorting_kisti.pptx` | PPTX | KISTI 연계 정렬 알고리즘 발표 자료입니다. |
-| `w6-2_search_algorithm.ipynb` | Notebook | 탐색 알고리즘 실습 노트북입니다. |
-| `w6-2_search_algorithm.py` | Python | pandas, glob, time을 활용한 탐색 알고리즘 Python 예제입니다. |
-| `w7-2_graph_algorithm.ipynb` | Notebook | adjacency matrix, distance matrix 등 그래프 기반 알고리즘 개념을 다루는 노트북입니다. |
-| `w7-2_mpi4py_code_explained.py` | Python | mpi4py 기반 병렬 처리 코드를 설명하는 Python 스크립트입니다. |
-| `w9-1_molecule_greedy.ipynb` | Notebook | 분자 데이터 문제에 greedy algorithm을 적용하는 실습 노트북입니다. |
-| `w9-1_molecule_greedy_additional_description.ipynb` | Notebook | greedy algorithm 분자 응용에 대한 추가 설명 자료입니다. |
-| `w10-1_molecule_dp.ipynb` | Notebook | 분자 데이터 문제에 dynamic programming을 적용하는 실습 노트북입니다. |
-| `w10-1_molecule_dp_kisti.py` | Python | mpi4py와 RDKit을 활용해 QED, logP 등 분자 특성을 계산하는 KISTI용 Python 스크립트입니다. |
-| `w10-2_agrochemical_score.ipynb` | Notebook | 농약 구조 분포 분석과 agrochemical score 계산 실습 노트북입니다. |
-| `w11-1_smarts_pesticide.ipynb` | Notebook | SMARTS 패턴을 활용해 pesticide 관련 구조를 탐색하는 실습 노트북입니다. |
-| `w11-1_smarts_pesticide_lecture.pptx` | PPTX | SMARTS와 pesticide 구조 분석 강의 발표 자료입니다. |
-| `w11-2_fingerprint_tanimoto.ipynb` | Notebook | molecular fingerprint와 Tanimoto similarity 기반 유사도 분석 실습 노트북입니다. |
-| `algorithm_final_exam_template.ipynb` | Notebook | 알고리즘 기말고사 템플릿 노트북입니다. |
+| [`W1-1 Algorithm.pdf`](<W1-1 Algorithm.pdf>) | PDF | 알고리즘 강의 도입 자료입니다. 알고리즘의 기본 개념과 수업 전체의 출발점을 정리합니다. |
+| [`W1-1 Algorithm.pptx`](<W1-1 Algorithm.pptx>) | PPTX | 1주차 알고리즘 개요 발표 자료입니다. |
+| [`W2-1 pandas basic.pdf`](<W2-1 pandas basic.pdf>) | PDF | pandas 기초 문법과 데이터 처리 흐름을 설명하는 강의 자료입니다. |
+| [`W2-1 pandas basic.pptx`](<W2-1 pandas basic.pptx>) | PPTX | pandas 기본 사용법 발표 자료입니다. |
+| [`w2-2_download_zinc.ipynb`](<w2-2_download_zinc.ipynb>) | Notebook | ZINC DB 다운로드 자동화 실습 노트북입니다. 파일 읽기, 리스트, 반복문을 활용합니다. |
+| [`w2_2_download_zinc_colab.ipynb`](<w2_2_download_zinc_colab.ipynb>) | Notebook | Google Colab 환경에서 ZINC DB 다운로드 실습을 수행하는 노트북입니다. |
+| [`ZINC-downloader-2D-txt.uri`](<ZINC-downloader-2D-txt.uri>) | URI | ZINC 2D text 데이터 다운로드에 사용하는 URI 목록입니다. |
+| [`w3-1 divide_and_conquer.pptx`](<w3-1 divide_and_conquer.pptx>) | PPTX | 분할 정복 알고리즘 강의 자료입니다. |
+| [`w3-1_divide_and_conquer.ipynb`](<w3-1_divide_and_conquer.ipynb>) | Notebook | 분할 정복 개념과 관련 퀴즈를 포함한 실습 노트북입니다. |
+| [`w3-1_divide_and_conquer-student.ipynb`](<w3-1_divide_and_conquer-student.ipynb>) | Notebook | 학생 실습용 분할 정복 노트북입니다. 일부 코드를 직접 채우는 형태입니다. |
+| [`w3-2 pseudo_code_BigO_notation_mpi4py.pdf`](<w3-2 pseudo_code_BigO_notation_mpi4py.pdf>) | PDF | pseudo code, Big-O notation, mpi4py 병렬 처리 개념을 설명하는 자료입니다. |
+| [`w3-2 pseudo_code_BigO_notation_mpi4py.pptx`](<w3-2 pseudo_code_BigO_notation_mpi4py.pptx>) | PPTX | 3주차 pseudo code, Big-O, mpi4py 발표 자료입니다. |
+| [`w3-2_python_script/`](<w3-2_python_script/>) | Folder | mpi4py 실습용 Python 스크립트 폴더입니다. |
+| [`w3-2_python_script/mpi4py_test.py`](<w3-2_python_script/mpi4py_test.py>) | Python | mpi4py 기본 동작과 병렬 실행을 확인하는 테스트 스크립트입니다. |
+| [`w3-2_python_script/mpi4py_find_logp_min.py`](<w3-2_python_script/mpi4py_find_logp_min.py>) | Python | pandas와 mpi4py를 사용해 분자 데이터에서 logP 최솟값을 찾는 병렬 처리 예제입니다. |
+| [`w4-1_sorting.ipynb`](<w4-1_sorting.ipynb>) | Notebook | 정렬 알고리즘 실습 노트북입니다. |
+| [`w4-1_sorting-student.ipynb`](<w4-1_sorting-student.ipynb>) | Notebook | 학생 실습용 정렬 알고리즘 노트북입니다. |
+| [`w4-2_sorting_kisti.pdf`](<w4-2_sorting_kisti.pdf>) | PDF | KISTI 환경 또는 관련 실습을 포함한 정렬 알고리즘 자료입니다. |
+| [`w4-2_sorting_kisti.pptx`](<w4-2_sorting_kisti.pptx>) | PPTX | KISTI 연계 정렬 알고리즘 발표 자료입니다. |
+| [`w6-2_search_algorithm.ipynb`](<w6-2_search_algorithm.ipynb>) | Notebook | 탐색 알고리즘 실습 노트북입니다. |
+| [`w6-2_search_algorithm.py`](<w6-2_search_algorithm.py>) | Python | pandas, glob, time을 활용한 탐색 알고리즘 Python 예제입니다. |
+| [`w7-2_graph_algorithm.ipynb`](<w7-2_graph_algorithm.ipynb>) | Notebook | adjacency matrix, distance matrix 등 그래프 기반 알고리즘 개념을 다루는 노트북입니다. |
+| [`w7-2_mpi4py_code_explained.py`](<w7-2_mpi4py_code_explained.py>) | Python | mpi4py 기반 병렬 처리 코드를 설명하는 Python 스크립트입니다. |
+| [`w9-1_molecule_greedy.ipynb`](<w9-1_molecule_greedy.ipynb>) | Notebook | 분자 데이터 문제에 greedy algorithm을 적용하는 실습 노트북입니다. |
+| [`w9-1_molecule_greedy_additional_description.ipynb`](<w9-1_molecule_greedy_additional_description.ipynb>) | Notebook | greedy algorithm 분자 응용에 대한 추가 설명 자료입니다. |
+| [`w10-1_molecule_dp.ipynb`](<w10-1_molecule_dp.ipynb>) | Notebook | 분자 데이터 문제에 dynamic programming을 적용하는 실습 노트북입니다. |
+| [`w10-1_molecule_dp_kisti.py`](<w10-1_molecule_dp_kisti.py>) | Python | mpi4py와 RDKit을 활용해 QED, logP 등 분자 특성을 계산하는 KISTI용 Python 스크립트입니다. |
+| [`w10-2_agrochemical_score.ipynb`](<w10-2_agrochemical_score.ipynb>) | Notebook | 농약 구조 분포 분석과 agrochemical score 계산 실습 노트북입니다. |
+| [`w11-1_smarts_pesticide.ipynb`](<w11-1_smarts_pesticide.ipynb>) | Notebook | SMARTS 패턴을 활용해 pesticide 관련 구조를 탐색하는 실습 노트북입니다. |
+| [`w11-1_smarts_pesticide_lecture.pptx`](<w11-1_smarts_pesticide_lecture.pptx>) | PPTX | SMARTS와 pesticide 구조 분석 강의 발표 자료입니다. |
+| [`w11-2_fingerprint_tanimoto.ipynb`](<w11-2_fingerprint_tanimoto.ipynb>) | Notebook | molecular fingerprint와 Tanimoto similarity 기반 유사도 분석 실습 노트북입니다. |
+| [`algorithm_final_exam_template.ipynb`](<algorithm_final_exam_template.ipynb>) | Notebook | 알고리즘 기말고사 템플릿 노트북입니다. |
 
 ## 실행 환경
 
